@@ -16,4 +16,4 @@ FORTNITE,1.00.1,https://raw.githubusercontent.com/avod245/934774600171135007_clo
 RUST,1.00.1,https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/ML/rust_wallp_v4.png
 APEX,1.00.1,https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/default_category_wallp.png
 HLL,1.00.1,https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/default_category_wallp.png
-DAYLIGHT,1.00.1,hhttps://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/default_category_wallp.png
+DAYLIGHT,1.00.1,https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/default_category_wallp.png
