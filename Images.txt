@@ -1,8 +1,8 @@
-Logo,1.00.01,https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/ML/iris_logo_v5.png
-News_Page,1.00.01,https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/ML/Iris_News_Page_v5.png
-Lateral_Menu,1.00.01,https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/ML/iris_default_lateral.png
-Background,1.00.01,https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/ML/FOND_V3.png
-BO6,1.00.1,https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/ML/bo6_wallp_v4.png
+Logo,1.00.01,https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/pexof_logo.png
+News_Page,1.00.01,https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/support_sentence_v1.png
+Lateral_Menu,1.00.01,https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/ML_CUSTOMERS/Pexof_lateral.png
+Background,1.00.01,https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/ML_CUSTOMERS/pexofBackground.png
+BO6,1.00.1,https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/default_category_wallp.png
 MW3,1.00.1,https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/ML/mw3_wallp_v4.png
 MW2,1.00.1,https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/ML/mw2_wallp_v4.png
 MW19,1.00.1,https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/ML/mw19_wallp_v4.png
