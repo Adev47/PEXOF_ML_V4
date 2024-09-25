@@ -3,7 +3,7 @@ News_Page,1.00.01,https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/
 Lateral_Menu,1.00.01,https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/ML_CUSTOMERS/Pexof_lateral.png
 Background,1.00.01,https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/ML_CUSTOMERS/pexofBackground.png
 BO6,1.00.1,https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/default_category_wallp.png
-MW3,1.00.02,https://i.imgur.com/eyR3Lzm.png
+MW3,1.00.03,https://i.imgur.com/eyR3Lzm.png
 MW2,1.00.1,https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/default_category_wallp.png
 MW19,1.00.1,https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/default_category_wallp.png
 FIVEM,1.00.1,https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/default_category_wallp.png
