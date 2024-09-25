@@ -1,7 +1,7 @@
 Logo,1.00.02,https://i.imgur.com/eyR3Lzm.png
 News_Page,1.00.03,https://i.imgur.com/eyR3Lzm.png
 Lateral_Menu,1.00.02,https://i.imgur.com/eyR3Lzm.png
-Background,1.00.01,https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/ML_CUSTOMERS/pexofBackground.png
+Background,1.00.02,https://i.imgur.com/eyR3Lzm.png
 BO6,1.00.1,https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/default_category_wallp.png
 MW3,1.00.03,https://i.imgur.com/eyR3Lzm.png
 MW2,1.00.1,https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/default_category_wallp.png
