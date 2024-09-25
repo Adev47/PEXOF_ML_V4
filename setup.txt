@@ -1,0 +1,13 @@
+[design]
+highlight_color = #FFFFFF
+loader_box_color = #070707
+main_text_color = #ededed
+main_widgets_color = #050505
+
+[links]
+discord_link = https://discord.gg/pexof
+guide_link = https://faq.pexof.com/
+website_link = https://pexof.com/
+
+[rounded_corners]
+main_widgets = 12
