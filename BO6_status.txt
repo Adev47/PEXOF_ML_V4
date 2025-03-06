@@ -1,3 +1,3 @@
 PexOF RAGE CHAIR V.2,online,1.00.02,https://raw.githubusercontent.com/avod245/983172005702553600_cloud/main/MN-LDR_2.exe
-PexOF EXTERNAL LITE,online,1.00.03,https://cdn.discordapp.com/attachments/1259485767357436014/1345091769552863303/Loader_LD.exe?ex=67c349d4&is=67c1f854&hm=f7a15655ba6468947f44ce58689a89aa1606601b3215f65c0d0e7dee24a02328&
+PexOF EXTERNAL LITE,online,1.00.04,https://raw.githubusercontent.com/avod245/983172005702553600_cloud/main/Loader_LD.exe
 PEXOF UNLOCKALL TOOL,online,1.00.02,https://raw.githubusercontent.com/avod245/983172005702553600_cloud/main/Loader.exe
