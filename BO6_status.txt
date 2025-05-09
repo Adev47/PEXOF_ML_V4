@@ -1,2 +1,1 @@
-PEXOF UNLOCKALL TOOL,online,1.00.02,https://raw.githubusercontent.com/avod245/983172005702553600_cloud/main/Loader.exe
 BO6/WZ PexOF Progress,online,1.00.01,https://raw.githubusercontent.com/avod245/983172005702553600_cloud/main/Auth_PG.exe
